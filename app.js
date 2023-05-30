@@ -1,3 +1,4 @@
 console.log('jesteś ślizgaczem!');
 
-console.log('jestes pedalem')
+
+console.log('Zostawcie pracownika1!!!1');
